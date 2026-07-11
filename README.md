@@ -50,15 +50,3 @@ Hi, I'm Amaresh, a passionate Full Stack Developer who enjoys building scalable,
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Amaresh1234q&show_icons=true&theme=aura)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Amaresh1234q&theme=aura)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amaresh1234q&layout=compact&theme=aura)
-
----
-
-![](https://komarev.com/ghpvc/?username=Amaresh1234q&style=for-the-badge&color=blue)
