@@ -3,8 +3,7 @@
 -->
 
 # 💫 About Me
-Full Stack Developer passionate about building scalable, user-friendly web applications. I enjoy building modern web apps, learning new technologies, and leveraging AI tools to write better code and automate development workflows.
-
+Hi, I'm Amaresh, a passionate Full Stack Developer who enjoys building scalable, user-friendly web applications. I specialize in developing modern, responsive web solutions and continuously explore new technologies to enhance my skills. I also leverage AI tools to improve code quality, streamline development workflows, and build efficient, innovative applications.
 ---
 
 ## 🌐 Socials
